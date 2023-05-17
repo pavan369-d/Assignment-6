@@ -17,3 +17,8 @@ list1 =["abc", 33,True,40,"male"]
 for x in list1:
     print(x)
 
+list2 =["pavan","Pirates","Rocks"]
+
+for x in list2:
+   print(x)
+
