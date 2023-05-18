@@ -21,4 +21,8 @@ list2 =["pavan","Pirates","Rocks"]
 
 for x in list2:
    print(x)
+   
+print("I am Pavan")
+  
+print("RocksPirates") 
 
